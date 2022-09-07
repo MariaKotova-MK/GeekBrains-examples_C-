@@ -1,0 +1,15 @@
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.csproj.AssemblyReference.cache
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.AssemblyInfoInputs.cache
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.AssemblyInfo.cs
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.csproj.CoreCompileInputs.cache
+C:\GeekBrains\examples_C#\HW_3\ex_19\bin\Debug\net6.0\ex_19.exe
+C:\GeekBrains\examples_C#\HW_3\ex_19\bin\Debug\net6.0\ex_19.deps.json
+C:\GeekBrains\examples_C#\HW_3\ex_19\bin\Debug\net6.0\ex_19.runtimeconfig.json
+C:\GeekBrains\examples_C#\HW_3\ex_19\bin\Debug\net6.0\ex_19.dll
+C:\GeekBrains\examples_C#\HW_3\ex_19\bin\Debug\net6.0\ex_19.pdb
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.dll
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\refint\ex_19.dll
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.pdb
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ex_19.genruntimeconfig.cache
+C:\GeekBrains\examples_C#\HW_3\ex_19\obj\Debug\net6.0\ref\ex_19.dll
