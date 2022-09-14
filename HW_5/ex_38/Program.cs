@@ -51,7 +51,11 @@ double[] FillArray(int size)
 double[] mas = new double[size];
 for (int i=0;i<size;i++)
 {
-mas[i]= new Random().NextDouble();
+mas[i]= new Random().NextDouble()*10000;
+}
+for (int i=0;i<size;i++)
+{
+mas[i]= Math.Round(mas[i],3);
 }
 return mas;
 }
@@ -60,12 +64,12 @@ void PrintArray(double[] mmm)
 {
 for (int i=0;i<mmm.Length;i++)
     {
-    if (i!=mmm.Length-1) Console.Write($"{mmm[i]}, ");
+    if (i!=mmm.Length-1) Console.Write($"{mmm[i]}| ");
     else Console.WriteLine($"{mmm[i]}");
     }
 }
 
-double[] array1 = FillArray(6);
+double[] array1 = FillArray(3);
 void SubMaxMin(double[] array)
 {
 double max = array[0];
