@@ -1,19 +1,43 @@
-﻿// Напишите программу, которая принимает на вход число N и выдаёт произведение чисел от 1 до N.
-
-
-// int mult = 1;
-// Console.Write("Введите число - ");
-// int N = Convert.ToInt32(Console.ReadLine());
-// for (int i =1; i<=N; i++) mult = mult*i;
-// Console.Write("Произведение равно " + mult);
-
-
-Console.WriteLine("Введите размерность массива - " );
-int N = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[N];
-for(int i = 0;i<N;i++)
+﻿int[,] FillMas(int n, int m)
 {
-        array[i] = new Random().Next(1,100);
-        Console.Write(array[i]+" ");
+int[,] mas = new int[n, m];
+for (int i = 0; i < n; i++)
+{
+for (int j = 0; j < m; j++)
+{
+mas[i, j] = new Random().Next(-10, 11);
+}
+}
+return mas;
 }
 
+
+void PrintArray(int[,] arr)
+{
+for (int i = 0; i < arr.GetLength(0); i++)
+{
+for (int j = 0; j < arr.GetLength(1); j++)
+{
+if (j != arr.GetLength(1) - 1) Console.Write($"{arr[i, j]}, ");
+else if (i == arr.GetLength(0) - 1 && j == arr.GetLength(1) - 1) Console.WriteLine($"{arr[i, j]}");
+else if (j == arr.GetLength(1) - 1) Console.WriteLine($"{arr[i, j]},");
+}
+}
+}
+
+
+int[,] ChangeMas(int n, int m)
+{
+int[,] mas = new int[n, m];
+for (int i = 0; i < n; i++)
+    {
+    for (int j = 0; j < m; j++)
+        {
+        if (i%2==1 & j%2==1)
+        mas[i, j] =  mas[i, j]*  mas[i, j];
+        }
+}
+
+
+int[,] newArray = FillMas(3, 4);
+PrintArray(ChangeMas(3,5));

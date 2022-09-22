@@ -69,7 +69,7 @@ for (int i=0;i<mmm.Length;i++)
     }
 }
 
-double[] array1 = FillArray(3);
+double[] array1 = FillArray(7);
 void SubMaxMin(double[] array)
 {
 double max = array[0];
