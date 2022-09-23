@@ -1,0 +1,15 @@
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.csproj.AssemblyReference.cache
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.AssemblyInfoInputs.cache
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.AssemblyInfo.cs
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.csproj.CoreCompileInputs.cache
+C:\GeekBrains\examples_C#\HW_7\ex_50\bin\Debug\net6.0\ex_50.exe
+C:\GeekBrains\examples_C#\HW_7\ex_50\bin\Debug\net6.0\ex_50.deps.json
+C:\GeekBrains\examples_C#\HW_7\ex_50\bin\Debug\net6.0\ex_50.runtimeconfig.json
+C:\GeekBrains\examples_C#\HW_7\ex_50\bin\Debug\net6.0\ex_50.dll
+C:\GeekBrains\examples_C#\HW_7\ex_50\bin\Debug\net6.0\ex_50.pdb
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.dll
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\refint\ex_50.dll
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.pdb
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ex_50.genruntimeconfig.cache
+C:\GeekBrains\examples_C#\HW_7\ex_50\obj\Debug\net6.0\ref\ex_50.dll
